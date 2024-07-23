@@ -7,7 +7,6 @@
       /          \\      uptime: 6 day, 3 hours
      /            \\     shell: zsh
     /   ,,    ,,   \\    wm: bspwm
-    /   ,,    ,,   \\    editor: 
    /   |  |  |  |  -\\   editor: neovim
   /_-''    ''    ''-_\\
 ```
