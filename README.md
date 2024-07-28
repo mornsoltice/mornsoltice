@@ -1,3 +1,5 @@
+![venti](venti.jpg)
+
 ```sh
            /\\
           /  \\          soltice@venti
